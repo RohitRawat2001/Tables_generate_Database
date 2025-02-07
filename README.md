@@ -1,6 +1,11 @@
 # Tables_generate_Database
 Table generate of database with forgein key
 
+Like This Output :
+
+
+
+![Screenshot 2025-02-07 152926](https://github.com/user-attachments/assets/986881ec-4ad6-445b-811c-d2c68b946302)
 
 # dependency
 
